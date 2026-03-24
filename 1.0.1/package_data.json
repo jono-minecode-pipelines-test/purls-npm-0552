@@ -1,0 +1,55 @@
+{
+    "name": "-1atm_asharib-shahid",
+    "version": "1.0.1",
+    "main": "index.js",
+    "type": "module",
+    "publishConfig": {
+        "access": "public"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^9.2.23",
+        "login": "^0.8.0"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "-1atm_asharib-shahid@1.0.1",
+    "gitHead": "0e512d6a12d92dc87ad2ce4fd47e62be848d8224",
+    "_nodeVersion": "20.11.0",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-FJQxUnETOADeD3s7xJTHIFwO+LmnQ0dx+bUQQ6fiSrfOjciuWNKXZpThnotF3D7nhGX62PYnER9wwuV+4AN6gA==",
+        "shasum": "efaf6f65d58727327527e2aaec7ad7a4261f36ef",
+        "tarball": "https://registry.npmjs.org/-1atm_asharib-shahid/-/-1atm_asharib-shahid-1.0.1.tgz",
+        "fileCount": 4,
+        "unpackedSize": 16016,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCQ0gSqcsrBw/IZ7XL43/5pNadFcWUQe2PhRITvlrQmBwIgS+uWKRKcGyEbb3cEG5HJqnQKHc/5SeGaOXeoX+zUJJI="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "asharibshahid",
+        "email": "shahidnazia835@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "asharibshahid",
+            "email": "shahidnazia835@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/-1atm_asharib-shahid_1.0.1_1717886205564_0.9899008247036034"
+    },
+    "_hasShrinkwrap": false
+}

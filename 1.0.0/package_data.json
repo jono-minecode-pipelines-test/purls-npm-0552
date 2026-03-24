@@ -1,0 +1,63 @@
+{
+    "name": "002-console-homework",
+    "version": "1.0.0",
+    "description": "",
+    "bin": {
+        "cmd": "1 task/cli.js",
+        "game": "2 task/readline.js"
+    },
+    "console": "false",
+    "homepage": "https://github.com/thalia-pawn/homeworks#readme",
+    "bugs": {
+        "url": "https://github.com/thalia-pawn/homeworks/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/thalia-pawn/homeworks.git"
+    },
+    "license": "ISC",
+    "author": {
+        "name": "A. Rashchupkin"
+    },
+    "type": "commonjs",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "yargs": "^17.7.2"
+    },
+    "gitHead": "72c59f70910679fffd23cfa5b802f60372f1e636",
+    "_id": "002-console-homework@1.0.0",
+    "_nodeVersion": "22.11.0",
+    "_npmVersion": "11.8.0",
+    "dist": {
+        "integrity": "sha512-3x0lrwGidr+STWD7aYb7WbbB3r+Fpksm/tz9x/rQC4jngJ/9e+73y6MFBraWwh1cfVA/DKarv5ET7ULx7VjHbA==",
+        "shasum": "275c9ef9890bc411ce2937dfd02fee06be162b27",
+        "tarball": "https://registry.npmjs.org/002-console-homework/-/002-console-homework-1.0.0.tgz",
+        "fileCount": 3,
+        "unpackedSize": 5499,
+        "signatures": [
+            {
+                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U",
+                "sig": "MEUCIAaKfLk8yzZymXb26RKjXiNb7tUXes6lYlu5XWqUlzfzAiEAsqmNdoVBXzmxxz2eFpdCdqZob+zb6RK9ZLndR1t0P0k="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "thalia_pawn",
+        "email": "alexandrosrashupkin@yandex.ru"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "thalia_pawn",
+            "email": "alexandrosrashupkin@yandex.ru"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages-npm-production",
+        "tmp": "tmp/002-console-homework_1.0.0_1771227736960_0.8709800400357754"
+    },
+    "_hasShrinkwrap": false
+}

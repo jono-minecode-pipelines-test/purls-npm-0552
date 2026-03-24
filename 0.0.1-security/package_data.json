@@ -1,0 +1,34 @@
+{
+    "name": "000webhost-admin",
+    "version": "0.0.1-security",
+    "description": "security holding package",
+    "repository": "npm/security-holder",
+    "_id": "000webhost-admin@0.0.1-security",
+    "_integrity": "sha512-q8eYhQF5ISBlKNgD0RZmgnAkJBs6pljvVgmkUK+Ubj6QjWb9C/J6NonHBy839nr9lI9nmpFqSaL8m0Ai4OPzLg==",
+    "_resolved": "/tmp/tmp-15-1okFMjRTI46e",
+    "_from": "file:/tmp/tmp-15-1okFMjRTI46e",
+    "dist": {
+        "tarball": "https://registry.npmjs.org/000webhost-admin/-/000webhost-admin-0.0.1-security.tgz",
+        "integrity": "sha512-q8eYhQF5ISBlKNgD0RZmgnAkJBs6pljvVgmkUK+Ubj6QjWb9C/J6NonHBy839nr9lI9nmpFqSaL8m0Ai4OPzLg==",
+        "shasum": "fa885c8319d0b757c11d2023dfde42fc1f694c22",
+        "fileCount": 2,
+        "unpackedSize": 438,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCjw1jLc0wgNkLjGqJgT2AuO18yGXhsdv58SY60gjJZlwIgOGfALBg4HWYXhD9s0mOK54cRlYAgnZGK9BRyAA8zGOw="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "npm",
+        "email": "npm@npmjs.com"
+    },
+    "directories": {},
+    "maintainers": [],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages-npm-production",
+        "tmp": "tmp/000webhost-admin_0.0.1-security_1736813527566_0.8031412414292161"
+    },
+    "_hasShrinkwrap": false
+}
